@@ -1,10 +1,11 @@
 #include <stdio.h>
+
 /**
- * C language
- *main- Starting point
- *Description: Prints exactly as it is
+ *main- Entry point
+ *Description: prints "\"Programming is like building a multilingual puzzle"
  *Return: 0
  */
+
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
