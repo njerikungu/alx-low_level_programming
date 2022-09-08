@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main: will print using printf
+ * main- will print using printf
  * Description: Prints,with proper grammar, but the outcome is a piece of art
  * Return: 0
  */
