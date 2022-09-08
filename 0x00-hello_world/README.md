@@ -3,3 +3,4 @@
 2-assembler Script generating the assembly code of C code and saving it in an output file 
 3-name Script compliling a C file and creates an executable file
 4-puts.c Prints use puts function 
+5-printf.c Prints using the printf function
