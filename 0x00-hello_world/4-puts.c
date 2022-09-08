@@ -1,6 +1,7 @@
 #include <stdio.h>
 /**
- * Prints exactly as it is
+ * Main: Starting point
+ *Description: Prints exactly as it is
  * returns 0
  */
 int main(void)
