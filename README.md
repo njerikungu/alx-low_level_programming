@@ -1,1 +1,1 @@
-Start of C language learning using Betty style 
+Start of C language learning using Betty style on Linux 
