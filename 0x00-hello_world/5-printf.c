@@ -2,7 +2,7 @@
 
 /**
  * main: will print a string
- * Description- Prints exactly as it is
+ * Description- Prints using printf
  * Return: 0
  */
 
