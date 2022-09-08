@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * C language
- *Main: Starting point
+ *main- Starting point
  *Description: Prints exactly as it is
  *Return: 0
  */
