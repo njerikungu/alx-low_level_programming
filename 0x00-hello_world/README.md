@@ -4,3 +4,4 @@
 3-name Script compliling a C file and creates an executable file
 4-puts.c Prints use puts function 
 5-printf.c Prints using the printf function
+6-size.c Prints the size of the various data types on computer it is compiled and run on 
