@@ -2,9 +2,10 @@
 
 /**
  *main- prints size of types on the the computer it is compiled and run on
- *Description - Should produce the exact same output as in the example
+ *Description- Should produce the exact same output as in the example
  *Return: 0, if successful 
- */
+*/
+
 int main(void)
 {
 printf("Size of a char: %d byte(s)\n", sizeof(char));
