@@ -5,3 +5,4 @@
 4-puts.c Prints use puts function 
 5-printf.c Prints using the printf function
 6-size.c Prints the size of the various data types on computer it is compiled and run on 
+100-intel Script generating the assembly code (Intel syntax) of a C code and saves iit in an output file
