@@ -3,7 +3,7 @@
 /**
  *main- prints size of types on the the computer it is compiled and run on
  *Description- Should produce the exact same output as in the example
- *Return: 0, if successful 
+ *Return:0 
 */
 
 int main(void)
