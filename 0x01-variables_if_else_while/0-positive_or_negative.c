@@ -3,7 +3,7 @@
 #include <time.h>
 
 /**
- * main- Assigning a random number n
+ * main - Assigning a random number n
  * description- it prints, positive, zero or negative
  * Return: 0
  */
