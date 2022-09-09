@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - prints the size of types on the the computer it is compiled and run on
+ * main - prints size of types on the the computer it is compiled and run on
  *Description - Should produce the exact same output as in the example
  *Return - 0
  */
