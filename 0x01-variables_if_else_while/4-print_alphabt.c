@@ -16,7 +16,7 @@ if (ch != 'q' && ch != 'e')
 {
 putchar (ch);
 }
-else 
+else
 {
 }
 putchar ('\n');
