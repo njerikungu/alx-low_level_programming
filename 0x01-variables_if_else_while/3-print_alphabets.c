@@ -16,5 +16,5 @@ for (ch = 'a'; ch <= 'Z'; ch++)
 putchar (ch);
 }
 putchar ('\n');
-retun (0);
+return (0);
 }
