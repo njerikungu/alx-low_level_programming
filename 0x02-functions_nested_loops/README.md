@@ -4,4 +4,4 @@
 3-islower.c checks for lowercase characters
 4-isalpha.c Checks for alphabetic character
 5-sign.c Prints tje sign of a number
-
+6-abs.c Prints the absolute value 
