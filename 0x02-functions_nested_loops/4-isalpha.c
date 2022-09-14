@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
-*_isalpha: entry point
+*_isalpha - Entry point
 *description: checks for alphabets
 *@c: is the function for  lowercase or uppercase character
 *Return: (1) if success, and 0 if otherwise
