@@ -3,7 +3,6 @@
 
 /**
 *_islower - checks for lowercase characters
-* c - islower
  *Return: 1 for success, 0 otherwise
 */
 
@@ -12,6 +11,9 @@ int _islower(int c)
 int i;
 for (i = 'a'; i <= 'z'; i++)
 {
+/** 
+ * c is declared in int c
+ */
 if (i == c)
 {
 return (1);
