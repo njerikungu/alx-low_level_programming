@@ -12,7 +12,7 @@ int i;
 for (i = 'a'; i <= 'z'; i++)
 {
 /**int c*/
-if (i == c)
+if (c == i)
 {
 return (1);
 }
