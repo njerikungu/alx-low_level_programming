@@ -2,8 +2,8 @@
 #include "main.h"
 
 /**
-*_isalpha: checks for alphabetic characters
-*description: uses _isalpha
+*_isalpha: entry point 
+*description: checks for alphabets
 *@c: is the function for  lowercase or uppercase character
 *Return: (1) if success, and 0 if otherwise
 */
