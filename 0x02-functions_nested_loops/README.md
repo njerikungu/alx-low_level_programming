@@ -5,3 +5,4 @@
 4-isalpha.c Checks for alphabetic character
 5-sign.c Prints tje sign of a number
 6-abs.c Prints the absolute value 
+7-print_last_digit.c Prints the last digit of a number
