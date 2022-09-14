@@ -5,7 +5,7 @@
 *print_sign - Entry point
 *@n: function for sign of number
 *description: prints sign of number
-*Return (0) if is 0, (1) if is greater than 0, (-1) if less than 0
+*Return: 1 if n>0, 0 if n==0, -1 if n<0
 */
 
 int print_sign(int n)
