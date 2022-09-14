@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
-*_isalpha - checks for alphabetic character
+*_isalpha: checks for alphabetic character
 *@c: declares c is lowercase or uppercase
 *Return (1) if success, and 0 if otherwise
 */
