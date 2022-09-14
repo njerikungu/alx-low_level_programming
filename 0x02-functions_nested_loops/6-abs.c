@@ -7,9 +7,9 @@
 *returns: -i if n<0, i if n>=0
 */
 
-int _abs(int n)
+int _abs(int i)
 {
-if (n < 0)
+if (i < 0)
 {
 return (-i);
 }
