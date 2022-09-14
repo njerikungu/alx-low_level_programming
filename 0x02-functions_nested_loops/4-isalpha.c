@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
-*_isalpha: checks for alphabetic character
-*@c: declares c is lowercase or uppercase
-*Return (1) if success, and 0 if otherwise
+*_isalpha: checks for alphabetic characters
+*@c: is the function for  lowercase or uppercase character
+*Return: (1) if success, and 0 if otherwise
 */
 
 int _isalpha(int c)
