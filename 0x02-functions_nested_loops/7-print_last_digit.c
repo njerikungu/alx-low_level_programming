@@ -8,7 +8,7 @@
 *Return: Always 0
 */
 
-int print_last_	digit(int i)
+int print_last_digit(int i)
 {
 int num;
 for (i = num%10)
