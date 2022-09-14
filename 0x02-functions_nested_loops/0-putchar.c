@@ -9,7 +9,7 @@
 
 int main(void)
 {
-int char[8] = "_putchar";
+char text[8] = "_putchar";
 int i = 0;
 for (i = 0; i <= 8; i++)
 {
