@@ -9,10 +9,10 @@
 int _islower(int c)
 {
 int i;
-char c = islower;
+char s = 'islower';
 for (i = 'a'; i <= 'z'; i++)
 {
-if (i == c);
+if (i == s);
 { 
 return (1);
 }
