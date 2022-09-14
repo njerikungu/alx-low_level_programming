@@ -8,11 +8,10 @@
 
 int _islower(int c)
 {
-int c;
 int i;
 for (i = 'a'; i <= 'z'; i++)
 {
-/**int c*/
+/*refer to int c*/
 if (c == i)
 {
 return (1);
