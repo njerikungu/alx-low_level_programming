@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
-*_abs: entry point
+*_abs : entry point
 *@i: function for absolute value
 *description: prints absolute value
 *returns: -i if n<0, i if n>=0
