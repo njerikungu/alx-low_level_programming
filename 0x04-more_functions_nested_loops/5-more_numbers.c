@@ -18,7 +18,7 @@ for (j = '0'; j <= '14'; j++)
 k = j;
 if (j > 9)
 {
-_putchar('1');
+_putchar(k);
 k = j % 10;
 }
 _putchar('0' + c);
