@@ -1,8 +1,8 @@
-nclude "main.h"
+#include "main.h"
 
 /**
 *print_square - prints square
-*@i: function for printing 
+*@n: function for printing 
 *Return: void
 */
 
@@ -15,9 +15,9 @@ while (i < n && n > 0)
 ii = 0;
 while (ii < n)
 {
-putchar('#');
+_putchar('#');
 ii++;
-																					}
+}
 _putchar('\n');
 i++;
 }
