@@ -13,9 +13,9 @@ int mins;
 int hrs_remainder;
 int mins_remainder;
 for (hrs = 0; hrs <= 23; hrs++)
-while (hrs_remainder = hrs % 10)
+while ('hrs_remainder' = hrs % 10)
 {
-while (mins_remainder = mins % 10)
+while ('mins_remainder' = mins % 10)
 {
 _putchar(hrs / 10 + '0');
 _putchar(hrs_remainder + '0');
@@ -25,7 +25,7 @@ _putchar(mins_remainder + '0');
 mins++;
 _putchar('\n');
 }
-hrs++
+hrs++;
 mins = 0;
 }
 }
