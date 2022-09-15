@@ -8,22 +8,21 @@
 
 void more_numbers(void)
 {
+char k, j;
 int i = 0;
-char j;
-char k;
 while (i < 10)
 {
-for (j = '0'; j <= '14'; j++)
+for (k = 0; k <= 14; k++)
 {
-k = j;
-if (j > 9)
+j = k;
+if (k > 9)
 {
-_putchar(k);
-k = j % 10;
+_putchar('1');
+j = k % 10;
 }
-_putchar('0' + c);
+_putchar('0' + j);
 }
 _putchar('\n');
-i++
+i++;
 }
 }
