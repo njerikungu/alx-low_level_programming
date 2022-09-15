@@ -7,3 +7,4 @@
 6-print_line - draws straight line 
 7-print_diagonal.c  Prints diagonal line
 8-print_square Prints square
+9-fizz_buzz Prints from 0 to 100
