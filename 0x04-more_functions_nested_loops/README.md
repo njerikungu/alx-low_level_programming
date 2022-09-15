@@ -5,3 +5,4 @@
 4-print_most_numbers.c Prints most nums
 5-more_numbers.c Print 0 to 14 10 time
 6-print_line - draws straight line 
+7-print_diagonal.c  Prints diagonal line
