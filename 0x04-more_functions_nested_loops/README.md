@@ -8,3 +8,4 @@
 7-print_diagonal.c  Prints diagonal line
 8-print_square Prints square
 9-fizz_buzz Prints from 0 to 100
+10-print_triangle Prints triangle
