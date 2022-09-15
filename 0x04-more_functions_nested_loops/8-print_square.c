@@ -2,7 +2,7 @@
 
 /**
 *print_square - prints square
-*@n: function for printing 
+*@n: function for printing
 *Return: void
 */
 
