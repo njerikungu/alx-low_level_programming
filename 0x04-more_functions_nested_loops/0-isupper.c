@@ -1,13 +1,12 @@
-#include <unistd.h>
 #include "main.h"
 
 /**
- *_isupper - checks for uppercase character
- *@c: function for the characters
- *Return: (1) if success, 0 otherwise
- */
+*_isupper - checks for uppercase character
+*@c: function for the characters
+*Return: (1) if success, 0 otherwise
+*/
 
-int _isupper(int c);
+int _isupper(int c)
 {
 if (c >= 'A' && c <= 'Z')
 return (1);
