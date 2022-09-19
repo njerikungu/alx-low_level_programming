@@ -21,3 +21,4 @@ rev =  s[c];
 s[c] = s[temp];
 s[temp] = rev;
 }
+}
