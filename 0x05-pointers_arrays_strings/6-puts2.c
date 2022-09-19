@@ -15,10 +15,7 @@ if ((c % 2) == 0)
 {
 _putchar(str[c]);
 }
-else 
-{ 
-proceed;
-}
 c++;
+}
 _putchar('\n');
 }
