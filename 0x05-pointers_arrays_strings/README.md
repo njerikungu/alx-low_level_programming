@@ -2,3 +2,4 @@
 1-swap.c Swaps the values of two integers
 2-strlen Returns the length of a string 
 3-puts.c Prints a string followed by new line
+4-print_rev.c Prints string in reverse
