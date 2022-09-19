@@ -17,7 +17,7 @@ temp++;
 for (c = 0; c < temp; c++)
 {
 temp--;
-rev s[c];
+rev =  s[c];
 s[c] = s[temp];
 s[temp] = rev;
 }
