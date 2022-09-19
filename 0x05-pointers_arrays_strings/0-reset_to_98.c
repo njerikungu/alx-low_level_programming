@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-*reset_to_98(int *n) - Takes poiner to an int and updates the value
+*reset_to_98 - Takes poiner to an int and updates the value
 *@n: function for 98
 *description: value it points is 98
 *Return: void
