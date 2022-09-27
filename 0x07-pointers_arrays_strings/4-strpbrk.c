@@ -32,5 +32,8 @@ char *_strpbrk(char *s, char *accept)
 	{
 		return (&s[pos]);
 	}
+	else
+	{
 	return ('\0');
+	}
 }
