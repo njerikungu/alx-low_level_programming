@@ -15,7 +15,7 @@ unsigned int _strspn(char *s, char *accept)
 	{
 		return (i);
 	}
-		while (s[i] && strchr(accept, s[i]))
+		while (s && strchr(accept, s++))
 			{
 			i++;
 			}
