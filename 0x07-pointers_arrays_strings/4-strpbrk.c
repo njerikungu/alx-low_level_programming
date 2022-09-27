@@ -9,18 +9,14 @@
 
 char *_strpbrk(char *s, char *accept)
 {
-	int i, j, pos, flg;
+	int i, j, pos, flg = 0;
 
-	i = 0;
-	while (s[i])
-		i++;
+	for (i = 0; s[i] != '\0'; i++)
 
 	pos = i;
-	i = 0;
-	while (accept[j])
+	for (i = 0; accept[i] != '\0'; i++)
 	{
-		j = 0;
-		while (s[j])
+		for (j = 0; s[j] != '\0'; j++)
 		{
 			if (accept[i] == s[j])
 			{
@@ -30,11 +26,11 @@ char *_strpbrk(char *s, char *accept)
 					flg = 1;
 				}
 			}
-			j++;
 		}
-		i++;
 	}
 	if (flg == 1)
+	{
 		return (&s[pos]);
+	}
 	return ('\0');
 }
