@@ -10,7 +10,14 @@
 unsigned int _strspn(char *s, char *accept)
 {
 	unsigned int i = 0;
-		while (s[i] && strchr(accept, s[i])
+
+	if ((s == '\0') || (accept == '\0'))
+	{
+		return (i);
+	}
+		while (s[i] && strchr(accept, s[i]))
+			{
 			i++;
+			}
 			return (i);
 }
