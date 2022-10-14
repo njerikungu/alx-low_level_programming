@@ -15,6 +15,6 @@ typedef struct dt
 {
 	char letter;
 	void (*func)(va_list);
-}print_t;
+}type;
 
 #endif
