@@ -67,8 +67,8 @@ void print_all(const char * const format, ...)
 		{'i', print_int},
 		{'f', print_float},
 		{'s', print_string},
-		{'\0', NULL},
-	};
+		{'\0', NULL} };
+
 	va_start(ap, format);
 
 	while (format != NULL && format[j] != '\0')
@@ -91,30 +91,3 @@ void print_all(const char * const format, ...)
 	va_end(ap);
 	printf("\n");
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
