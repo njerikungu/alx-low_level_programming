@@ -2,12 +2,6 @@
 #include <stdarg.h>
 #include <stdio.h>
 
-void print_char(va_list ap);
-void print_int(va_list ap);
-void print_float(va_list ap);
-void print_string(va_list ap);
-void print_all(const char * const format, ...);
-
 /**
  * print_char - prints char
  * @ap: list of args pointing to char to be printed
