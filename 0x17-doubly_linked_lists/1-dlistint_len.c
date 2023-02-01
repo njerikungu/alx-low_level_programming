@@ -2,7 +2,6 @@
 
 /**
  * dlistint_len -  returns the number of elements
- * in a linked list
  * @h: pointer to head of lists
  * Return: number of elements
  */
